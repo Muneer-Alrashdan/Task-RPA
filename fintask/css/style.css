@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(237, 237, 255);
+}
+
+.one{
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    margin-right: auto;
+    padding: 5px 5px 5px 5px;
+    border: 3px solid black;
+    box-shadow: 3px 5px rgb(0, 0, 0);
+    margin-top: 20px;
+    line-height: 0.7cm;
+}
+
+.two{
+    background-color: white;
+    width: 50%;
+    margin-right: auto;
+    padding: 5px 5px 5px 5px;
+    border: 3px solid red;
+    box-shadow: 3px 5px red;
+    margin-top: 20px;
+    color: red;
+    line-height: 0.7cm;
+    border-style: dotted;
+}
+
+.three{
+    background-color: white;
+    width: 50%;
+    margin-right: auto;
+    padding: 5px 5px 5px 5px;
+    border: 3px solid black;
+    box-shadow: 3px 5px rgb(0, 0, 0);
+    margin-top: 20px;
+    line-height: 0.7cm;
+    
+}
+
+.sw{
+    background-color: yellow;
+}
+
+.ss{
+    background-color: blueviolet;
+}
